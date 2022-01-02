@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on tribute webpage
-- 📫 How to reach me! Email to here! alierditmaguet@gmail.com
+- 📫 How to reach me! Email me here! alierditmaguet@gmail.com
 
 <!---
 Alier888/Alier888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
